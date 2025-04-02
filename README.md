@@ -10,3 +10,10 @@ A simple writing application.
 ## Development
 
 `python3 main.py`
+
+## Project
+
+- API that allows
+    - Users to track writing/journal
+    - Users can upload new texts
+    - Users can see previous texts
